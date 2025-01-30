@@ -36,7 +36,7 @@ export default defineConfig({
   
   //reporter: [['html', { outputFolder: 'playwright-report' }]],
   reporter: process.env.CI ? 'blob' : 'html',
-  workers: 2, 
+  workers: 10, 
 
   /* Configure projects for major browsers */
   projects: [
