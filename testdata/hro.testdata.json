@@ -1,0 +1,196 @@
+{
+  "fr": {
+    "frequentlyUsedText": "Recherche fréquente"
+  },
+  "ch": {
+    "frequentlyUsedText": "Häufige Suche"
+  },
+  "name":{
+    "foreName":"Testing1",
+    "sureName":"Testing2"
+  },
+  "mobileNumber":{
+    "ph":"1234567890"
+  },
+  "passwordDatas":{
+    "currentPassword":"",
+    "newPassword":"",
+    "confirmPassword":""
+  },
+  "searchTestData": {
+    "searchKeywordForToothbrushes": "Brosse à dents",
+    "expectedHeadingForToothbrushes": "Résultats de recherche pour \"Brosse à dents\"",
+
+    "searchKeywordForFluoride": "elmex fluid",
+    "expectedHeadingForFlouride": "Résultats de recherche pour \"elmex fluid\"",
+
+    "searchKeywordForTongueScraper": "HALEINE FRAÎCHE",
+    "expectedHeadingForOralRinses": "Résultats de recherche pour \"HALEINE FRAÎCHE\"",
+
+    "searchKeywordForWhitening": "Blanchiment",
+    "expectedHeadingForWhitening": "Résultats de recherche pour \"Blanchiment\"",
+
+    "searchKeywordForMouthwash": "Bain de bouche",
+    "expectedHeadingForMouthwash": "Résultats de recherche pour \"Bain de bouche\"",
+
+    "searchKeywordForToothpaste": "Dentifrice",
+    "expectedHeadingForToothpaste": "Résultats de recherche pour \"Dentifrice\"",
+
+    "viewAllProductVerificationText": "toothbrushes",
+    "relevantProductName":"Colgate® PreviDent® 5000 ppm Ortho Defense (1.1% Sodium Fluoride)"
+  },
+ "emailData":{
+    "email":"{{HROEmail}}"
+  },
+  "passwordData":{
+    "password":"{{HROPassword}}"
+  },
+  "addToFav":{
+    "addToCartProduct": "Duraphat® Dentifrice**",
+    "addToFav": "meridol® Mini Size",
+    "addToFavViaPDP":"meridol® EXTRA DOUX"
+  },
+  "successMessage":{
+    "addToFavourites": "Le produit a bien été ajouté aux favoris",
+    "addToCart": "Le produit a bien été ajouté au panier",
+    "removeMessageFromFavourites": "Produit supprimé des favoris avec succès"
+  },
+  "urls":{
+    "facebookFr":"https://www.facebook.com/ColgatePalmoliveHealthAndBeauty/",
+    "instagramFr":"https://www.instagram.com/cpgaba.professional/#",
+    "linkedinFr":"https://www.linkedin.com/company/colgate-palmolive",
+    "termsofUseFr":"https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy/terms-of-use",
+    "privacypolicyFr":"https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy#privacy",
+    "cookiepolicyFr":"https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy",
+    "cookieacceptancetoolFr":"https://uat.shop.colgateprofessional.ch/fr-ch",
+    "legalnoticesFr":"https://uat.shop.colgateprofessional.ch/fr-ch/misc/impress",
+    "pdpfirstproductFr":"https://uat.shop.colgateprofessional.ch/fr-ch/products/elmex-sensitive-plus/p?variant=elmex%C2%AE%20SENSITIVE%20Plus",
+    "germanurl":"https://uat.shop.colgateprofessional.ch/",
+    "reprivacypolicyDe":"https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy#privacy",
+    "gabaimage":"https://directus.prd-colpro-ch.colpal.cloud/assets/cf31080f-e71b-45b4-be9d-927072d291a6.png",
+    "doyouhaveloginpageurl":"https://directus.prd-colpro-ch.colpal.cloud/assets/cf31080f-e71b-45b4-be9d-927072d291a6.png",
+    "termsofservicelink":"https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy/terms-of-use",
+    "dataprotectionlink":"https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy#privacy",
+    "pagetemrsconditionlink":"https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy/terms-of-use",
+    "professionalWebsiteHeaderText":"https://www.colgateprofessional.ch/fr-ch",
+    "trainingPlatformHeaderText":"https://learn.colgateprofessional.ch/fr/co/home/",
+    "onlineStoreHeaderText":"https://uat.shop.colgateprofessional.ch/fr-ch",
+    "registrationURL":"/auth/registration",
+    "patientConditionURL":"products?patient-condition=carie",
+    "meridolParodontExpert":"search?searchkeyword=parondent%20expert&product-type=produits",
+    "FreeTrainingOffersURL":"https://learn.colgateprofessional.ch/fr/co/home/",
+    "frenchurl":"https://uat.shop.colgateprofessional.ch/fr-ch",
+    "facebookDe":"https://www.facebook.com/ColgatePalmoliveHealthAndBeauty/",
+    "instagramDe":"https://www.instagram.com/cpgaba.professional/#",
+    "linkedinDe":"https://www.linkedin.com/company/colgate-palmolive",
+    "termsofUseDe":"https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy/terms-of-use",
+    "privacypolicyDe":"https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy#privacy",
+    "cookiepolicyDe":"https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy",
+    "cookieacceptancetoolDe":"https://uat.shop.colgateprofessional.ch/fr-ch",
+    "legalnoticesDe":"https://uat.shop.colgateprofessional.ch/fr-ch/misc/impress",
+    "pdpfirstproductDe":"https://uat.shop.colgateprofessional.ch/fr-ch/products/elmex-sensitive-plus/p?variant=elmex%C2%AE%20SENSITIVE%20Plus",
+    "promoTextFr":"Vente des jours fériés d'août",
+    "promoTextDe":"Feiertagsverkauf im August",
+    "firstProductPriceFr":"54.22 CHF",
+    "firstProductPriceDe":"CHF 54.22",
+    "homePageFr":"https://uat.shop.colgateprofessional.ch/fr-ch",
+    "homePageDe":"https://uat.shop.colgateprofessional.ch/",
+    "seeAllLinkSearchPRoduct":"search?searchkeyword=Brosse%20%C3%A0%20dents",
+    "gabaCustomerNumberImageUrl": "https://directus.tst-colpro-ch.colpal.cloud/assets/a0a0efc0-b9b5-4a4b-bce1-d425b7063d2f.png" 
+    },
+    "signUp":{
+      "password":"{{GABAPassword}}",
+      "confirmPassword":"{{GABAPassword}}",
+      "mismatchPassword":"Test",
+      "invalidemail":"test",
+      "email":"{{GABASignUpEmail}}",
+      "weakpassword":"1234",
+      "postalcodeinvalid":"90",
+      "firstname":"firstName",
+      "lastname":"lastName",
+      "practiceemail":"practice@colpal.com"
+    },
+    "noFavouriteMessage":{
+      "noFavouriteProductMessage": "Aucun favoris.Continuer vos achats"
+    },
+    "plpPageHeading":{
+      "plpPageHeadingText": "Tous les produits"
+    },
+    "details":{
+      "firstname":"xyz",
+      "surname":"abc",
+      "countycode":"Liechtenstein (+423)",
+      "mobilenumber":"9898976545",
+      "title":"Dr",
+      "jobtitle": "Dentist",
+      "title1": "Madame"
+    },
+    "reset":{
+      "email":"",
+      "currentPassword":"",
+      "newPassword":""
+    },
+    "cartQuantity":{
+      "quantityBeforeAdd":"1   ",
+      "quantityAfterAdd":"2   "
+    },
+    "cartPageQuantity":{
+      "quantityBeforeAdd":"1",
+      "quantityAfterAdd":"2"
+    },
+    "nonApprovedClinic":{
+      "username":"{{GABANonApprovedusername}}",
+      "password":"{{GABAPassword}}",
+      "rxProduct":"GB00507A"
+    },
+    "productSubTotalPrice":{
+      "singleProductInitialSubTotalPrice":"14.17",
+      "singleProductAfterIncreaseSubTotalPrice":"28.34",
+      "multiProductInitialSubTotalPrice":"54.22",
+      "multiProductAfterIncreaseSubTotalPrice":"68.39",
+      "miniCartZeroValue":"0.00"
+    },
+    "inactiveEmailData":{
+      "email":"{{GABAInactiveEmail}}"
+    },
+    "inactivePasswordData":{
+      "password":""
+    },
+    "gabaCustomerNumber":{
+      "gabaCustomerNumber": "45038946",
+      "pin": "4104"
+    },
+    "registerYourAccountFirstScreen":{
+      "doYouAlreadyHaveALoginForOneOfOurPagesFR":"Vous avez déjà un login pour l'une de nos pages (ancienne boutique GABA, site Prof.) ? Dans ce cas, ne veuillez pas lancer un nouvel enregistrement. Veuillez utiliser le bouton «Se connecter»."
+    },
+    "passwordChangeAccount":{
+      "email": "",
+      "oldPassword": "",
+      "currentPassword": "",
+      "invalidOldPassword": ""
+    },
+    "incompleteProfile":{
+    "incompleteProfileEmail":"{{GABAIncompleteEmail}}"
+  },
+  "Title":{
+    "Mr": "Mr.",
+    "Ms": "Ms.",
+    "Dr": "Dr.",
+    "Prof": "Prof."
+  },
+  "ProfessionalCategory":{
+    "Dental": "Dental"
+  },
+  "FunctionsCategory":{
+    "Dentist": "102",
+    "DentalHygienist": "200",
+    "ADDentalAssistant": "100"
+  },
+  "SpecialisationsCategory":{
+    "GeneralDentist": "General Dentist",
+    "Periodontist": "Periodontist",
+    "Endodontist": "Endodontist",
+    "Orthodontist": "Orthodontist"
+  }
+    
+}

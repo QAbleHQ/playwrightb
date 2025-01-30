@@ -1,0 +1,48 @@
+export const FooterLocaters={
+    footerHeaderShop:`//div[contains(@class,'footer-title')]//p[text()='Shop']`,
+    footerListAllProducts:`//ul[contains(@class,'footer-list')]//a[@title='All Products']`,
+    footerListDailyCare:`//ul[contains(@class,'footer-list')]//a[@title='Daily Care']`,
+    footerListByTreatment:`//ul[contains(@class,'footer-list')]//a[@title='By Treatment']`,
+    footerListBySkinType:`//ul[contains(@class,'footer-list')]//a[@title='By Skin Type']`,
+    footerListBySkinConcern:`//ul[contains(@class,'footer-list')]//a[@title='By Skin Concern']`,
+
+    footerHeaderLearn:`//div[contains(@class,'footer-title')]//p[text()='Learn']`,
+    footerListCourses:`//ul[contains(@class,'footer-list')]//a[@title='Courses']`,
+    footerListProfessionalPeels:`//ul[contains(@class,'footer-list')]//a[@title='Professional Peels']`,
+    footerListSkinConcern:`//ul[contains(@class,'footer-list')]//a[@title='Skin Concerns']`,
+    footerListSkinType:`//ul[contains(@class,'footer-list')]//a[@title='Skin Types']`,
+    footerListSkinIntelligence:`//ul[contains(@class,'footer-list')]//a[@title='Skin Intelligence']`,
+
+    footerHeaderAbout:`//div[contains(@class,'footer-title')]//p[text()='About']`,
+    footerListOurStory:`//ul[contains(@class,'footer-list')]//a[@title='Our Story']`,
+    footerListOurPeelLegacy:`//ul[contains(@class,'footer-list')]//a[@title='Our Peel Legacy']`,
+    footerListCareers:`//ul[contains(@class,'footer-list')]//a[@title='Careers']`,
+    
+    footerHeaderCustomerService:`//div[contains(@class,'footer-title')]//p[text()='Customer Service']`,
+    footerListContactUs:`//ul[contains(@class,'footer-list')]//a[@title='Contact Us']`,
+    footerListFAQ:`//ul[contains(@class,'footer-list')]//a[@title='FAQ']`,
+    footerListShipping:`//ul[contains(@class,'footer-list')]//a[@title='Shipping']`,
+    footerListReturns:`//ul[contains(@class,'footer-list')]//a[@title='Returns']`,
+
+    footerPCASKINInternational:`//div[contains(@class,'footer_content_list')]//a[@title='PCA SKIN International']`,
+    footerPrivacyPolicy:`//div[contains(@class,'footer_content_list')]//a[@title='Privacy Policy']`,
+    footerTermsAndConditions:`//div[contains(@class,'footer_content_list')]//a[@title='Terms & Conditions']`,
+    footerDoNotSellMyPersonalInformation:`//div[contains(@class,'footer_content_list')]//a[@title='Do Not Sell My Personal Information']`,
+    footerProductexcellence:`//div[contains(@class,'footer_content_list')]//a[@title='Product excellence']`,
+
+    footerSkinHelthImg:`//img[@alt='Cpg Skin Health']`,
+    footerCopyrightstext:`//p[text()='© 2024 CP Skin Health Group, Inc. All Rights Reserved']`,
+
+    footerBacktoTopCTAafterLogin:`//div[@id="__next"]//following::button[contains(@class,'fixed scroll-top-btn')]`,
+    firstColumnAtFooterLayout:`div.container.footer-section div.footer-col >>nth=0`,
+    secondColumnAtFooterLayout:`div.container.footer-section div.footer-col >>nth=1`,
+    thirdColumnAtFooterLayout:`div.container.footer-section div.footer-col >>nth=2`,
+    fourthColumnAtFooterLayout:`div.container.footer-section div.footer-col >>nth=3`,
+    footerSection:`div.container.footer-section`,
+    footerTitleAtFirstRow:`div.container.footer-section div.footer-title-wrapper >>nth=0`,
+    firstRowAtFooter:`div.container.footer-section div.footer-col >>nth=0  >> div.footer_content_list ul li >>nth=0`,
+    secondRowAtFooter:`div.container.footer-section div.footer-col >>nth=0  >> div.footer_content_list ul li >>nth=1`,
+    thirdRowAtFooter:`div.container.footer-section div.footer-col >>nth=0  >> div.footer_content_list ul li >>nth=2`,
+    fourthRowAtFooter:`div.container.footer-section div.footer-col >>nth=0  >> div.footer_content_list ul li >>nth=3`,
+    fifthRowAtFooter:`div.container.footer-section div.footer-col >>nth=0  >> div.footer_content_list ul li >>nth=4`,
+}

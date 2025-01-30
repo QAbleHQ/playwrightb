@@ -1,0 +1,474 @@
+{
+  "foreName": {
+    "fr": "Testing1",
+    "de": "Testing1"
+  },
+  "sureName": {
+    "fr": "Testing2",
+    "de": "Testing2"
+  },
+  "phhoneNumber": {
+    "fr": "1234567890",
+    "de": "1234567890"
+  },
+  "currentPassword": {
+    "fr": "1234567890",
+    "de": "1234567890"
+  },
+  "newPassword": {
+    "fr": "1234567890",
+    "de": "1234567890"
+  },
+  "confirmPassword": {
+    "fr": "1234567890",
+    "de": "1234567890"
+  },
+  "searchKeywordForToothbrushes": {
+    "fr": "Brosse à dents",
+    "de": "elmex® EXPERT PRÄZISION"
+  },
+  "expectedHeadingForToothbrushes": {
+    "fr": "Résultats de recherche pour \"Brosse à dents\"",
+    "de": "Suchergebnisse für \"elmex® EXPERT PRÄZISION\""
+  },
+  "searchKeywordForFluoride": {
+    "fr": "elmex fluid",
+    "de": "elmex fluid"
+  },
+  "expectedHeadingForFlouride": {
+    "fr": "Résultats de recherche pour \"elmex fluid\"",
+    "de": "Suchergebnisse für \"elmex fluid\""
+  },
+  "searchKeywordForTongueScraper": {
+    "fr": "HALEINE FRAÎCHE",
+    "de": "HALEINE FRAÎCHE"
+  },
+  "expectedHeadingForOralRinses": {
+    "fr": "Résultats de recherche pour \"HALEINE FRAÎCHE\"",
+    "de": "Suchergebnisse für \"HALEINE FRAÎCHE\""
+  },
+  "searchKeywordForWhitening": {
+    "fr": "Blanchiment",
+    "de": "Whitening"
+  },
+  "expectedHeadingForWhitening": {
+    "fr": "Résultats de recherche pour \"Blanchiment\"",
+    "de": "Suchergebnisse für \"Whitening\""
+  },
+  "searchKeywordForMouthwash": {
+    "fr": "Bain de bouche",
+    "de": "Mundspülung"
+  },
+  "expectedHeadingForMouthwash": {
+    "fr": "Résultats de recherche pour \"Bain de bouche\"",
+    "de": "Suchergebnisse für \"Mundspülung\""
+  },
+  "searchKeywordForToothpaste": {
+    "fr": "Dentifrice",
+    "de": "Zahnpasta"
+  },
+  "expectedHeadingForToothpaste": {
+    "fr": "Résultats de recherche pour \"Dentifrice\"",
+    "de": "Suchergebnisse für \"Zahnpasta\""
+  },
+  "viewAllProductVerificationText": {
+    "fr": "Brosse à dents",
+    "de": "Zahnbürsten"
+  },
+  "email": {
+    "fr": "{{FrenchEmail}}",
+    "de": "{{GermanEmail}}"
+  },
+  "password": {
+    "fr": "{{GABAPassword}}",
+    "de": "{{GABAPassword}}"
+  },
+  "addToCartProduct": {
+    "fr": "Duraphat® Dentifrice**",
+    "de": "Duraphat® Zahnpaste**"
+  },
+  "addToFav": {
+    "fr": "meridol® Mini Size",
+    "de": "meridol® Mini Size"
+  },
+  "addToFavViaPDP": {
+    "fr": "meridol® EXTRA DOUX",
+    "de": "meridol® EXTRA SANFT"
+  },
+  "addToFavourites": {
+    "fr": "Le produit a bien été ajouté aux favoris",
+    "de": "Produkt erfolgreich zu Favoriten hinzugefügt"
+  },
+  "addToCart": {
+    "fr": "Le produit a bien été ajouté au panier",
+    "de": "Erfolgreich zum Warenkorb hinzugefügt"
+  },
+  "removeMessageFromFavourites": {
+    "fr": "Produit supprimé des favoris avec succès",
+    "de": "Produkt erfolgreich aus Favoriten entfernt"
+  },
+  "facebookFr": {
+    "fr": "https://www.facebook.com/ColgatePalmoliveHealthAndBeauty/",
+    "de": "https://www.facebook.com/ColgatePalmoliveHealthAndBeauty/"
+  },
+  "instagramFr": {
+    "fr": "https://www.instagram.com/cpgaba.professional/#",
+    "de": "https://www.instagram.com/cpgaba.professional/#"
+  },
+  "linkedinFr": {
+    "fr": "https://www.linkedin.com/company/colgate-palmolive",
+    "de": "https://www.linkedin.com/company/colgate-palmolive"
+  },
+  "termsofUseFr": {
+    "fr": "https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy/terms-of-use",
+    "de": "https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy/terms-of-use"
+  },
+  "privacypolicyFr": {
+    "fr": "https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy#privacy",
+    "de": "https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy#privacy"
+  },
+  "cookiepolicyFr": {
+    "fr": "https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy",
+    "de": "https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy"
+  },
+  "cookieacceptancetoolFr": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch",
+    "de": "https://uat.shop.colgateprofessional.ch"
+  },
+  "legalnoticesFr": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch/misc/impress",
+    "de": "https://uat.shop.colgateprofessional.ch/misc/impress"
+  },
+  "pdpfirstproductFr": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch/products/elmex-sensitive-plus/p?variant=elmex%C2%AE%20SENSITIVE%20Plus",
+    "de": "https://uat.shop.colgateprofessional.ch/products/elmex-sensitive-plus/p?variant=elmex%C2%AE%20SENSITIVE%20Plus"
+  },
+  "germanurl": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch",
+    "de": "https://uat.shop.colgateprofessional.ch/"
+  },
+  "reprivacypolicyDe": {
+    "fr": "https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy#privacy",
+    "de": "https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy#privacy"
+  },
+  "gabaimage": {
+    "fr": "https://directus.prd-colpro-ch.colpal.cloud/assets/cf31080f-e71b-45b4-be9d-927072d291a6.png",
+    "de": "https://directus.prd-colpro-ch.colpal.cloud/assets/cf31080f-e71b-45b4-be9d-927072d291a6.png"
+  },
+  "doyouhaveloginpageurl": {
+    "fr": "https://directus.prd-colpro-ch.colpal.cloud/assets/cf31080f-e71b-45b4-be9d-927072d291a6.png",
+    "de": "https://directus.prd-colpro-ch.colpal.cloud/assets/cf31080f-e71b-45b4-be9d-927072d291a6.png"
+  },
+  "termsofservicelink": {
+    "fr": "https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy/terms-of-use",
+    "de": "https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy/terms-of-use"
+  },
+  "dataprotectionlink": {
+    "fr": "https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy#privacy",
+    "de": "https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy#privacy"
+  },
+  "pagetemrsconditionlink": {
+    "fr": "https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy/terms-of-use",
+    "de": "https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy/terms-of-use"
+  },
+  "professionalWebsiteHeaderText": {
+    "fr": "https://www.colgateprofessional.ch/fr-ch",
+    "de": "https://www.colgateprofessional.ch/de-ch"
+  },
+  "trainingPlatformHeaderText": {
+    "fr": "https://learn.colgateprofessional.ch/fr/co/home/",
+    "de": "https://learn.colgateprofessional.ch/de/co/home/"
+  },
+  "onlineStoreHeaderText": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch",
+    "de": "https://uat.shop.colgateprofessional.ch"
+  },
+  "registrationURL": {
+    "fr": "/auth/registration",
+    "de": "/auth/registration"
+  },
+  "patientConditionURL": {
+    "fr": "products?patient-condition=carie",
+    "de": "products?patient-condition=karies"
+  },
+  "meridolParodontExpert": {
+    "fr": "search?searchkeyword=parondent%20expert&product-type=produits",
+    "de": "search?searchkeyword=parondent%20expert&product-type=produkte"
+  },
+  "FreeTrainingOffersURL": {
+    "fr": "https://learn.colgateprofessional.ch/fr/co/home/",
+    "de": "https://learn.colgateprofessional.ch/de/co/home/"
+  },
+  "frenchurl": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch",
+    "de": "https://uat.shop.colgateprofessional.ch"
+  },
+  "facebookDe": {
+    "fr": "https://www.facebook.com/ColgatePalmoliveHealthAndBeauty/",
+    "de": "https://www.facebook.com/ColgatePalmoliveHealthAndBeauty/"
+  },
+  "instagramDe": {
+    "fr": "https://www.instagram.com/cpgaba.professional/#",
+    "de": "https://www.instagram.com/cpgaba.professional/#"
+  },
+  "linkedinDe": {
+    "fr": "https://www.linkedin.com/company/colgate-palmolive",
+    "de": "https://www.linkedin.com/company/colgate-palmolive"
+  },
+  "termsofUseDe": {
+    "fr": "https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy/terms-of-use",
+    "de": "https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy/terms-of-use"
+  },
+  "privacypolicyDe": {
+    "fr": "https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy#privacy",
+    "de": "https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy#privacy"
+  },
+  "cookiepolicyDe": {
+    "fr": "https://www.colgatepalmolive.ch/fr-ch/legal-privacy-policy",
+    "de": "https://www.colgatepalmolive.ch/de-ch/legal-privacy-policy"
+  },
+  "cookieacceptancetoolDe": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch",
+    "de": "https://uat.shop.colgateprofessional.ch"
+  },
+  "legalnoticesDe": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch/misc/impress",
+    "de": "https://uat.shop.colgateprofessional.ch/misc/impress"
+  },
+  "pdpfirstproductDe": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch/products/elmex-sensitive-plus/p?variant=elmex%C2%AE%20SENSITIVE%20Plus",
+    "de": "https://uat.shop.colgateprofessional.ch/products/elmex-sensitive-plus/p?variant=elmex%C2%AE%20SENSITIVE%20Plus"
+  },
+  "promoTextFr": {
+    "fr": "Vente des jours fériés d'août",
+    "de": "Feiertagsverkauf im August"
+  },
+  "promoTextDe": {
+    "fr": "Vente des jours fériés d'août",
+    "de": "Feiertagsverkauf im August"
+  },
+  "firstProductPriceFr": {
+    "fr": "54.22 CHF",
+    "de": "CHF 54.22"
+  },
+  "firstProductPriceDe": {
+    "fr": "54.22 CHF",
+    "de": "CHF 54.22"
+  },
+  "homePageFr": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch",
+    "de": "https://uat.shop.colgateprofessional.ch/"
+  },
+  "homePageDe": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch",
+    "de": "https://uat.shop.colgateprofessional.ch/"
+  },
+  "seeAllLinkSearchPRoduct": {
+    "fr": "https://uat.shop.colgateprofessional.ch/fr-ch/search?searchkeyword=Brosse%20%C3%A0%20dents",
+    "de": "https://uat.shop.colgateprofessional.ch/search?searchkeyword=elmex%C2%AE%20EXPERT%20PR%C3%84ZISION"
+  },
+  "gabaCustomerNumberImageUrl": {
+    "fr": "https://directus.tst-colpro-ch.colpal.cloud/assets/a0a0efc0-b9b5-4a4b-bce1-d425b7063d2f.png",
+    "de": "https://directus.tst-colpro-ch.colpal.cloud/assets/a0a0efc0-b9b5-4a4b-bce1-d425b7063d2f.png"
+  },
+  "signUpPassword": {
+    "fr": "{{GABAPassword}}",
+    "de": "{{GABAPassword}}"
+  },
+  "signUpConfirmPassword": {
+    "fr": "{{GABAPassword}}",
+    "de": "{{GABAPassword}}"
+  },
+  "signUpMismatchPassword": {
+    "fr": "Test",
+    "de": "Test"
+  },
+  "signUpInvalidemail": {
+    "fr": "test",
+    "de": "test"
+  },
+  "signUpWeakpassword": {
+    "fr": "1234",
+    "de": "1234"
+  },
+  "signUpPostalcodeinvalid": {
+    "fr": "90",
+    "de": "90"
+  },
+  "signUpFirstname": {
+    "fr": "firstName",
+    "de": "firstName"
+  },
+  "signUpLastname": {
+    "fr": "lastName",
+    "de": "lastName"
+  },
+  "noFavouriteProductMessage": {
+    "fr": "Aucun favoris.Continuer vos achats",
+    "de": "Keine Favoriten.Weiter einkaufen"
+  },
+  "plpPageHeadingText": {
+    "fr": "Tous les produits",
+    "de": "Alle Produkte"
+  },
+  "firstnameDetails": {
+    "fr": "xyz",
+    "de": "xyz"
+  },
+  "surnameDetails": {
+    "fr": "abc",
+    "de": "abc"
+  },
+  "countycodeDetails": {
+    "fr": "Liechtenstein (+423)",
+    "de": "Liechtenstein (+423)"
+  },
+  "titleDetails": {
+    "fr": "Dr",
+    "de": "Dr"
+  },
+  "jobtitleDetails": {
+    "fr": "Médecin-dentiste",
+    "de": "Zahnarzt/-ärztin"
+  },
+  "title1Details": {
+    "fr": "Madame",
+    "de": "Frau"
+  },
+  "quantityBeforeAdd": {
+    "fr": "1   ",
+    "de": "1"
+  },
+  "quantityAfterAdd": {
+    "fr": "2   ",
+    "de": "2"
+  },
+  "quantityBeforeAddForCartPage": {
+    "fr": "1",
+    "de": "1"
+  },
+  "quantityAfterAddForCartPage": {
+    "fr": "2",
+    "de": "2"
+  },
+  "usernameForNonApprovedClinic": {
+    "fr": "{{GABANonApprovedusernameFrench}}",
+    "de": "{{GABANonApprovedusernameGerman}}"
+  },
+  "passwordForNonApprovedClinic": {
+    "fr": "{{GABAPassword}}",
+    "de": "{{GABAPassword}}"
+  },
+  "rxProductForNonApprovedClinic": {
+    "fr": "GB00507A",
+    "de": "GB00507A"
+  },
+  "singleProductInitialSubTotalPrice": {
+    "fr": "14.17",
+    "de": "14.17"
+  },
+  "singleProductAfterIncreaseSubTotalPrice": {
+    "fr": "28.34",
+    "de": "28.34"
+  },
+  "multiProductInitialSubTotalPrice": {
+    "fr": "54.22",
+    "de": "54.22"
+  },
+  "multiProductAfterIncreaseSubTotalPrice": {
+    "fr": "68.39",
+    "de": "68.39"
+  },
+  "miniCartZeroValue": {
+    "fr": "0.00",
+    "de": "0.00"
+  },
+  "inactiveEmailData": {
+    "fr": "{{GABAInactiveEmailForFrench}}",
+    "de": "{{GABAInactiveEmailForGerman}}"
+  },
+  "inactivePasswordData": {
+    "fr": "{{GABAPassword}}",
+    "de": "{{GABAPassword}}"
+  },
+  "gabaCustomerNumber": {
+    "fr": "45038946",
+    "de": "45038946"
+  },
+  "pin": {
+    "fr": "4104",
+    "de": "4104"
+  },
+  "doYouAlreadyHaveALoginForOneOfOurPagesFR": {
+    "fr": "Vous avez déjà un login pour l'une de nos pages (ancienne boutique GABA, site Prof.) ? Dans ce cas, ne veuillez pas lancer un nouvel enregistrement. Veuillez utiliser le bouton «Se connecter».",
+    "de": "Sie haben bereits ein Login für eine unserer Seiten (alter GABA Shop, Prof. Website)? Dann starten Sie bitte keine neue Registrierung. Bitte nutzen Sie den Button \"Anmelden\"."
+  },
+  "incompleteProfileEmail": {
+    "fr": "{{GABAIncompleteEmailForFrench}}",
+    "de": "{{GABAIncompleteEmailForGerman}}"
+  },
+  "titleMr": {
+    "fr": "Mr.",
+    "de": "Mr."
+  },
+  "titleMs": {
+    "fr": "Ms.",
+    "de": "Ms."
+  },
+  "titleDr": {
+    "fr": "Dr.",
+    "de": "Dr."
+  },
+  "titleProf": {
+    "fr": "Prof.",
+    "de": "Prof."
+  },
+  "professionalCategoryDental": {
+    "fr": "Dental",
+    "de": "Dental"
+  },
+  "functionsCategoryDentist": {
+    "fr": "102",
+    "de": "102"
+  },
+  "functionsCategoryDentalHygienist": {
+    "fr": "200",
+    "de": "200"
+  },
+  "functionsCategoryADDentalAssistant": {
+    "fr": "100",
+    "de": "100"
+  },
+  "specialisationsCategoryGeneralDentist": {
+    "fr": "General Dentist",
+    "de": "General Dentist"
+  },
+  "specialisationsCategoryPeriodontist": {
+    "fr": "Periodontist",
+    "de": "Periodontist"
+  },
+  "specialisationsCategoryEndodontist": {
+    "fr": "Endodontist",
+    "de": "Endodontist"
+  },
+  "specialisationsCategoryOrthodontist": {
+    "fr": "Orthodontist",
+    "de": "Orthodontist"
+  },
+  "emailForPasswordChangeAccount": {
+    "fr": "{{FrenchEmail}}",
+    "de": "{{GermanEmail}}"
+  },
+  "invalidOldPasswordForPasswordChangeAccount": {
+    "fr":"Test@123",
+    "de":"Test@123"
+  },
+  "oldPasswordForPasswordChangeAccount":{
+    "fr":"QAble@2024",
+    "de":"QAble@2024"
+  },
+  "colgateBamboo":{
+    "fr":"CN07960A",
+    "de":"CN07960A"
+  }
+}

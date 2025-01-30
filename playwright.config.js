@@ -1,5 +1,9 @@
 // @ts-check
 import { defineConfig, devices } from '@playwright/test';
+import { getBaseUrl } from './env';
+
+
+const baseURL = "https://test.pcaskinpro.com";
 
 /**
  * Read environment variables from file.
@@ -31,12 +35,13 @@ export default defineConfig({
     // baseURL: 'http://127.0.0.1:3000',
 
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
-    trace: 'on-first-retry',
+    //trace: 'on-first-retry',
   },
   
   //reporter: [['html', { outputFolder: 'playwright-report' }]],
   reporter: process.env.CI ? 'blob' : 'html',
   workers: 11, 
+  
 
   /* Configure projects for major browsers */
   projects: [

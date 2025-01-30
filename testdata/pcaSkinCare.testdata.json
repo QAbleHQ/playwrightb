@@ -1,0 +1,280 @@
+{
+  "EducationPage": {
+    "heading": "Education",
+    "CourseCardHeading": "Professional Peel Certification",
+    "CourseCardStatus": "Registered",
+    "EduactionDashboardText": "View Education Dashboard"
+  },
+  "ViewEducationDashboard": {
+    "href": "href",
+    "Value": "https://pcaskinacademy.com/"
+  },
+  "ViewCourseButton": {
+    "href": "href",
+    "Value": "/courses/pca-skin-certification/p"
+  },
+  "UserIcon": {
+    "heading": "Free drop-shipping for any order totalling $100 or more"
+  },
+  "CartIcon": {
+    "heading": "Free drop-shipping for any order $100 or above"
+  },
+  "EmptyCart": {
+    "message": "There's nothing here yet."
+  },
+  "EmailAddress": {
+    "email45676": "{{pcaSkin45676Email}}",
+    "email758": "{{pcaSkin758Email}}",
+    "allEmail": "{{pcaSkinAllEmail}}",
+    "studentEmail": "{{pcaSkinStudentEmail}}",
+    "regularEmail": "{{pcaSkinRegularEmail}}",
+    "licEmail": "{{pcaSkinLicEmail}}"
+  },
+  "Password": {
+    "testPassword": "{{pcaSkinTestPassword}}",
+    "regularPassword": "{{pcaSkinRegularPassword}}",
+    "registerPassword": "{{pcaSkinRegisterPassword}}"
+  },
+  "OrderHistoryPage": {
+    "heading": "Order History",
+    "orderDateHeader": "Date",
+    "orderOrderHeader": "Order #",
+    "orderAmountHeader": "Amount",
+    "orderStatusHeader": "Status",
+    "orderTrackingHeader": "Tracking #",
+    "orderShipToHeader": "Ship To",
+    "orderShipToAddressHeader": "Ship To Address"
+  },
+  "PaymentMethod": {
+    "heading": "Payment Methods"
+  },
+  "AddPaymentMethod": {
+    "heading": "Add Payment Method",
+    "Card_Number_Label": "Card Number",
+    "Expiration": "Expiration",
+    "CVV": "CVV",
+    "Full_Name": "Full name",
+    "Address_Line": "Address line 1"
+  },
+  "CardDetails": {
+    "CardNumber": "1234567890",
+    "Expiration": "04/27",
+    "CVV": "768",
+    "FullName": "John Doe",
+    "AddressLine": "BhootNagar Gali, Ahmedabad"
+  },
+  "SetDefault": {
+    "text": "Save card as default payment"
+  },
+  "RestrictedMessage": {
+    "UAT": "You are not qualified to purchase this item. Please contact 877.PCA.SKIN or info@pcaskin.com for more information",
+    "Producation": "The Professional Peel Certification course is required to access professional-only products. If you want to become PCA Certified please call 877.PCA.SKIN, email info@pcaskin.com or click here for more details. If you have completed the course, please email info@pcaskin.com with proof of completion (certificate)"
+  },
+  "toothbrushMenu": {
+    "hoverMessage": "Hovered over Toothbrush menu.",
+    "failureMessage": "Failed to hover over Toothbrush menu."
+  },
+  "oralRinsesMenu": {
+    "hoverMessage": "Hovered over Oral Rinses menu.",
+    "failureMessage": "Failed to hover over Oral Rinses menu."
+  },
+  "shopByPatientCondition": {
+    "hoverMessage": "Hovered over the Shop by patient condition.",
+    "failureMessage": "Failed to hover over Shop by patient condition."
+  },
+  "fluorides": {
+    "hoverMessage": "Hovered over the fluorides.",
+    "failureMessage": "Failed to hover over the fluorides."
+  },
+  "SoftSubmenu": {
+    "keyword": "soft"
+  },
+  "Product": {
+    "acnecream": "Acne Cream"
+  },
+  "ItemQuantity": {
+    "Value": "6"
+  },
+  "numbers": {
+    "value4": 4,
+    "value3": 3
+  },
+  "products": {
+    "products": "/products"
+  },
+  "Quantity": {
+    "one": "1",
+    "two": "2"
+  },
+  "cssProperties": {
+    "color": "color",
+    "fontWeight": "font-weight",
+    "rgbWhite": "rgb(255, 255, 255)",
+    "BoldValue700": "700",
+    "borderBottomColor": "border-bottom-color",
+    "rgbGrey": "rgb(229, 231, 235)"
+  },
+  "Keywords": {
+    "viewBenefits": "/misc/rewards"
+  },
+  "ProductNames": {
+    "acneCream": "Acne Cream",
+    "mdPeelCCl3": "MD Peel (CCl3)",
+    "blemishControlBar": "Blemish Control Bar"
+  },
+  "RegisterPage": {
+    "Name": {
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    "InvalidEmailAddress": {
+      "email1": "username@.com",
+      "email2": "colpal.com",
+      "email3": "usernamecolpal.com",
+      "email4": "username@@colpal.com"
+    },
+    "ValidEmailAddress": {
+      "email1": "user@example.com",
+      "email2": "user.name@colpal.com",
+      "email3": "user_name@pg.colpal.org",
+      "email4": "user+test@colpal.co.in"
+    },
+    "ErrorMessage": {
+      "alreadyRegisteredEmail": "Email already exists",
+      "invalidEmail": "E-mail address is invalid.",
+      "invalidPassword": "Password does not meet complexity requirements",
+      "passwordDoNotMatch": "Passwords do not match",
+      "thisFieldIsRequired": "This field is required"
+    },
+    "InvalidPasswords": {
+      "password1": "short",
+      "password2": "lowercaseonly",
+      "password3": "UPPERCASEONLY",
+      "password4": "NoNumbers!",
+      "password5": "NoSpecial123",
+      "password6": "12345678",
+      "password7": "!!!!@%#$#"
+    }
+  },
+  "RegularUser": {
+    "HomeSlider": {
+      "homeSliderHeader1": "A new way to brighten has emerged",
+      "homeSliderHeader2": "NEW Bright and Even Peel",
+      "homeSliderHeader3": "Celebrate National Peel Day",
+      "homeSliderDescription1": "Introducing our first brightening moisturizer for deeper hydration and luminous glow.",
+      "homeSliderDescription2": "A gentle and effective chemical peel with L-Mandelic and Lactic acids shown to increase visible skin brightness after just one peeling session.",
+      "homeSliderDescription3": "Receive a complimentary face mask with purchase of a peel! To redeem, see instructions to the left",
+      "homeSliderCTALink1": "products/hydrabright/p",
+      "homeSliderCTALink2": "/products/bright-and-even-peel/p",
+      "homeSliderCTALink3": "/courses",
+      "href": "href",
+      "registerTreatmentTuesday": "https://pcaskinacademy.com/skin-care-courses/treatment-tuesday-live-webinars",
+      "brighteningLaunchPromo": "/products?category=Antioxidants&category=Broad%20Spectrum%20SPF&category=Cleansers%20%26%20Toners&category=Solution%20Sets&category=Eye,Neck,Lip&category=Masks&category=Moisturizers&category=Retinols&category=Serums"
+    },
+    "Tiles": {
+      "viewBenefits": "View Benefits",
+      "customerSupport": "PCA SKIN Customer Support",
+      "customerSupportNumber": "877.PCA.SKIN [722.7546]",
+      "availabilityTime": "7:00 AM – 5:00 PM AZ",
+      "availabilityDay": "AvailableMonday – Friday"
+    },
+    "Keywords": {
+      "viewBenefits": "/misc/rewards"
+    },
+    "ContentBanner": {
+      "title1": "Register Treatment Tuesday",
+      "title2": "Brightening Launch Promo"
+    },
+    "Links": {
+      "cartPage": "https://test.pcaskinpro.com/cart",
+      "academy": "https://pcaskinacademy.com/",
+      "allAccessMembership": "https://test.pcaskinpro.com/courses/all-access-membership",
+      "acneMembership": "https://test.pcaskinpro.com/courses/acne-membership/",
+      "agingMembership": "https://test.pcaskinpro.com/courses/aging-membership",
+      "hyperpigmentation": "https://test.pcaskinpro.com/courses/hyperpigmentation-membership",
+      "sensitiveSkin": "https://test.pcaskinpro.com/courses/sensitive-skin-membership",
+      "enhancingYourServices": "https://test.pcaskinpro.com/courses/enhance-your-services-membership",
+      "multiculturalSkin": "https://test.pcaskinpro.com/courses/multicultural-skin-membership",
+      "treatmentTuesday": "https://pcaskinacademy.com/skin-care-courses/treatment-tuesday-live-webinars/",
+      "nationalSeminars": "https://pcaskinacademy.com/skin-care-courses/national-seminars/",
+      "ourStory": "https://test.pcaskinpro.com/misc/about/our-story",
+      "studentPage": "https://test.pcaskinpro.com/products?productentitlement=student-only",
+      "aboutMe": "https://test.pcaskinpro.com/misc/student/about-me",
+      "contentPage": "https://contents.pcaskinpro.com/auth/login",
+      "brighteningLaunchPromoPage": "https://test.pcaskinpro.com/products?category=Antioxidants&category=Broad%20Spectrum%20SPF&category=Cleansers%20%26%20Toners&category=Solution%20Sets&category=Eye,Neck,Lip&category=Masks&category=Moisturizers&category=Retinols&category=Serums",
+      "myOnlineCourses": "https://education.pcaskin.com/",
+      "academyPage": "https://pcaskinacademy.com/?_ga=2.123799747.850845696.1694440818-1815847910.1693330325"
+    },
+    "BestSeller": {
+      "header": "Best Sellers",
+      "description": "A selection of our highly recommended products, endorsed by industry professionals, to initiate your professional journey."
+    },
+    "FooterSubmenu": {
+      "allProducts": "All Products Opens in new window",
+      "dailyCare": "Daily Care Opens in new window",
+      "byTreatment": "By Treatment Opens in new window",
+      "bySkinType": "By Skin Type Opens in new window",
+      "bySkinConcern": "By Skin Concern Opens in new window",
+      "courses": "Courses Opens in new window",
+      "professionalPeels": "Professional Peels Opens in new window",
+      "skinConcern": "Skin Concerns Opens in new window",
+      "skinTypes": "Skin Types Opens in new window",
+      "skinIntelligence": "Skin Intelligence Opens in new window",
+      "ourStory": "Our Story Opens in new window",
+      "ourPeelLegacy": "Our Peel Legacy Opens in new window",
+      "careers": "Careers Opens in new window",
+      "contactUs": "Contact Us Opens in new window",
+      "faq": "FAQ Opens in new window",
+      "shipping": "Shipping Opens in new window",
+      "returns": "Returns Opens in new window",
+      "pcaSkinInternational": "PCA SKIN International Opens in new window",
+      "privacyPolicy": "Privacy Policy",
+      "termsAndCondition": "Terms & Conditions Opens in new window",
+      "doNotSellMyPersonalInformation": "Do Not Sell My Personal Information Opens in new window",
+      "productExcellence": "Product Excellence Opens in new window"
+    },
+    "FooterLink": {
+      "dailyCare": "/products?category=Antioxidants&category=Broad%20Spectrum%20SPF&category=Cleansers%20%26%20Toners&category=Solution%20Sets&category=Eye%2C%20Neck%2C%20Lip&category=Masks&category=Moisturizers&category=Retinols&category=Serums",
+      "byTreatment": "/products?category=Peels&category=Peel%20Alternative&category=Retinoid%20Treatments&category=Therapeutic%20Masks&category=Treatment%20Enhancements&category=Backbar%20Tools",
+      "bySkinType": "/products?skin-type=combination&skin-type=dry&skin-type=normal&skin-type=oily&skin-type=sensitive",
+      "bySkinConcern": "/products?skin-concern=acne&skin-concern=aging&skin-concern=discolorations&skin-concern=preventative&skin-concern=sensitive-skin&skin-concern=brightening",
+      "courses": "/courses",
+      "professionalPeels": "https://pcaskinacademy.com/professional-peels/",
+      "skinConcern": "https://pcaskinacademy.com/skin-concerns/",
+      "skinTypes": "https://pcaskinacademy.com/skin-types/",
+      "skinIntelligence": "https://pcaskinacademy.com/skin-intelligence/",
+      "ourStory": "/misc/about/our-story",
+      "ourPeelLegacy": "/misc/about/our-peel-legacy",
+      "careers": "/misc/about/careers",
+      "contactUs": "/misc/about/contact-us",
+      "faq": "/misc/faq",
+      "shipping": "/misc/about/shipping-terms",
+      "returns": "/misc/about/returns-exchanges",
+      "pcaSkinInternational": "/misc/about/pca-international",
+      "privacyPolicy": "https://www.colgatepalmolive.co.in/legal-privacy-policy",
+      "termsAndCondition": "/misc/about/terms-of-use",
+      "doNotSellMyPersonalInformation": "/misc/about/do-not-sell-my-personal-information",
+      "productExcellence": "/misc/about/product-excellence"
+    },
+    "FooterHeading": {
+      "heading1": "Shop",
+      "heading2": "Learn",
+      "heading3": "About",
+      "heading4": "Customer Service"
+    },
+    "AllRightsMessage": {
+      "message": "© 2024 CP Skin Health Group, Inc. All Rights Reserved"
+    },
+    "PromotionMessage": {
+      "message": "Free drop-shipping for any order totalling $100 or more"
+    },
+    "SearchText": {
+      "acneCream": "Acne Cream",
+      "retinolPeel": "4% Retinol Peel",
+      "clearskin": "Clearskin",
+      "hyaluronicAcidMask": "Hyaluronic Acid Overnight Mask",
+      "retinol": "Retinol",
+      "intensiveAgeRefiningTreatment": "Intensive Age Refining Treatment®: 0.5% pure retinol"
+    }
+  }
+}

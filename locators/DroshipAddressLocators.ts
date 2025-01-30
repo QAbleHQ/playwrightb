@@ -1,0 +1,31 @@
+export const DroshipAddressLocators = {
+
+
+    dropShipAddress:`//div[@id='user-account']//div[contains(@class, 'global-account-menu')]//a[@title='Dropship Addresses' and normalize-space()='Dropship Addresses']`,
+    dropshipAddressInBlue:`//h2[contains(@class,'heading')]`,
+    addDropShipAddress:`//button[normalize-space()='Add Dropship Address']`,
+    addNewAddress:`//h2[normalize-space()='Add New Address']`,
+    dropShipAddressesInBox:`//button[contains(text(),'Dropship Addresses')]`,
+    name:`//label[@for='receiverName']`,
+    nameIsRequired:`//span[contains(@class, 'text-red-500') and contains(@class, 'error-message')]`,
+    receiverName:`//input[@id='receiverName']`,
+    weRegret:`//span[@class='text-red-600 bg-red-100 border border-red-50 px-4 py-2']`,
+    address:`//label[@for='street1']`,
+    street1:`//input[@id='street1']`,
+    addressIsRequired:`//span[text()='Address is required']`,
+    street2:`//input[@id='street2']`,
+    city:`//label[@for='city']`,
+    cityBox:`//input[@id='city']`,
+    cityIsRequired:`//span[text()='City is required']`,
+    state:`//label[@for='state']`,
+    stateBox:`//select[@id='state']`,
+    stateIsRequired:`//span[@class='text-red-500 border-none mt-2 text-base font-bold leading-4']`,
+    zipCode:`//label[contains(@for,'postalCode')]`,
+    zipCodeBox:`//input[@id='postalCode']`,
+    zipCodeIsRequired:`//span[text()='Zip Code is required']`,
+    phoneNoParenthesisOrDashes:`//label[contains(@for,'number')]`,
+    phoneNoParenthesisOrDashesBox:`//input[@id='number']`,
+    phoneNoParenthesisOrDashesIsRequired:`//span[text()='Phone (No parenthesis or dashes) is required']`,
+    youHaveNoSavedDropshipAddresses:`//p[contains(@class,'text-center mt-14')]`,
+}
+

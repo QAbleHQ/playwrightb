@@ -1,0 +1,9 @@
+{
+    "CustomerNumber": {
+        "invalidCustomerNumber": "1234567890",
+        "validCustomerNumber": "9876543210"
+    }
+}
+
+
+

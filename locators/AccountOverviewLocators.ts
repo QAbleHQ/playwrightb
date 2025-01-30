@@ -1,0 +1,17 @@
+export const AccountOverviewLocators={
+    account: "//p[@class='font-heavy lg:text-3xl text-primary-400 leading-10 account-title']",
+    overViewHomeIcon: "//span[@class='undefined lg:group-hover:flex hover:flex home-icon-active flex']",
+    overView: "//span[normalize-space()='Overview']",
+    overViewHeading: "//h2[normalize-space()='Overview']",
+    diamondIcon: "//img[contains(@alt,'Diamond Member')]",
+    yourRewardsTire: "//h2[normalize-space()='Your Rewards Tier']",
+    diamondMemberText: "//p[normalize-space()='Diamond Member']",
+    viewRewardsProgram: "//a[contains(@title,'View Rewards Program')]",
+    customerNumber: "//h2[normalize-space()='Customer Number']",
+    numberics: "//p[normalize-space()='10005223']",
+    headphonesIcon: "//div[contains(@class,'customer-support_customer-support-image__GSjHk lg:mr-5 mr-7 image-wrapper')]",
+    customerServiceHeading: "//h3[contains(@class,'heading')]",
+    customerServiceNumber: "//p[contains(@class,'text-xl font-light leading-7 customer-support-number')]",
+    availableMonFri: "//p[@class='font-light availability-day']",
+    time: "//p[@class='font-light availability-time']",
+}
