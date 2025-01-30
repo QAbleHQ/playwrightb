@@ -1,5 +1,5 @@
 name: Playwright Tests
- 
+
 on:
   push:
     branches:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        shard: [1, 2] # Adjust this for more shards
+        shard: [1, 2] # Adjust for more shards
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,13 +28,15 @@ jobs:
         run: npx playwright install --with-deps
 
       - name: Run Playwright tests (shard ${{ matrix.shard }})
-        run: npx playwright test --shard=${{ matrix.shard }}/${{ strategy.job-total }} --output-dir=playwright-report-${{ matrix.shard }}
+        run: |
+          mkdir -p test-results/shard-${{ matrix.shard }}
+          npx playwright test --shard=${{ matrix.shard }}/${{ strategy.job-total }} --reporter=json,html --output=test-results/shard-${{ matrix.shard }}
 
       - name: Upload test reports
         uses: actions/upload-artifact@v4
         with:
           name: playwright-report-${{ matrix.shard }}
-          path: playwright-report-${{ matrix.shard }}
+          path: test-results/shard-${{ matrix.shard }}
 
   merge-reports:
     needs: test
@@ -56,7 +58,7 @@ jobs:
       - name: Merge Playwright reports
         run: |
           mkdir merged-report
-          npx playwright merge-reports --output merged-report reports/*
+          npx playwright merge-reports --reporter=html --output merged-report reports/*
 
       - name: Upload Merged Report
         uses: actions/upload-artifact@v4
