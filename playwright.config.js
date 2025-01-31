@@ -39,8 +39,7 @@ export default defineConfig({
   },
   
   //reporter: [['html', { outputFolder: 'playwright-report' }]],
-  reporter: [['json', { outputFile: 'playwright-report/report.json' }]],
-  //reporter: process.env.CI ? 'blob' : 'html',  // for git hub
+  reporter: process.env.CI ? 'blob' : 'html',
   workers: 5, 
   
 
