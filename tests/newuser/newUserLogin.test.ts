@@ -23,7 +23,7 @@ test.afterEach(async () => {
 });
 
 test.describe("Verifying New User's Test Login", async () => {
-    test("Verify successful login for a newly registered user using their provided credentials123.", { tag: '@regression @newUser @login' }, async () => {
+    test.only("Verify successful login for a newly registered user using their provided credentials123.", { tag: '@regression @newUser @login' }, async () => {
 
         await test.step("Step 1: Verify the User is on HomePage", async () => {
             await HomePage.isWelcomeTextVisible(page);

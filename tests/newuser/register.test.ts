@@ -34,7 +34,7 @@ test.afterEach(async () => {
 
 test.describe('Register Your Profile', () => {
 
-    test('Verify that the "Register Your profile" page contains the following elements', { tag: '@regression @newUser @register' }, async () => {
+    test.only('Verify that the "Register Your profile" page contains the following elements', { tag: '@regression @newUser @register' }, async () => {
 
         await test.step('Step 1: Verify on register now is visible', async () => {
             await HomePage.isRegisterNowVisible(page)

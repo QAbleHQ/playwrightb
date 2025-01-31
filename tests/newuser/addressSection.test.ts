@@ -24,7 +24,7 @@ test.afterEach(async () => {
 });
 
 test.describe("Verify successful login for a newly registered user using their provided credentials456.", async () => {
-  test('Verify AVe', { tag: '@regression @newUser @adress' }, async ({ }) => {
+  test.only('Verify AVe', { tag: '@regression @newUser @adress' }, async ({ }) => {
 
     await test.step('Step 1: Login to the accout', async () => {
       await HomePage.clickUserIcon(page);
